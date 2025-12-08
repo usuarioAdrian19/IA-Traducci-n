@@ -1,0 +1,8 @@
+boto3
+Flask
+python-dotenv
+opencv-python
+numpy
+gradio
+google-generativeai
+requests
